@@ -10,6 +10,8 @@ Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model【C
 
 Zero-Shot Knowledge Distillation from a Decision-Based Black-Box Mode
 
+A dirt-t approach to unsupervised domain adaptation
+
 ## Black-box Domain Adaptation
 DINE: Domain Adaptation from Single and Multiple Black-box Predictors
 
