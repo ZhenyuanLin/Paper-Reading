@@ -4,6 +4,8 @@
 
 ### useful url：https://github.com/ZhenyuanLin/Awesome-datafree-KD 【Data-Free KD】
 
+### useful url：https://blog.csdn.net/weixin_44936889/article/details/119788818 【零样本知识蒸馏 BIT可达鸭】
+
 Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model【CVPR 2020】
 
 Zero-Shot Knowledge Distillation from a Decision-Based Black-Box Mode
@@ -43,5 +45,7 @@ Source Data-absent Unsupervised Domain Adaptation through Hypothesis Transfer an
 
 Unsupervised Domain Adaptation of Black-Box Source Models [28 Mar 2021]
 
+## Data-free distillation
+Large-Scale Generative Data-Free Distillation
 
 
