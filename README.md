@@ -22,6 +22,7 @@ Domain Adaptation for Semantic Segmentation with Maximum Squares Loss 【ICCV 20
 
 ## Source-Free DA
 #### Conference
+Unsupervised multisource domain adaptation without access to source data
 
 Generalize Then Adapt: Source-Free Domain Adaptive Semantic Segmentation [ICCV2021] [Project]
 
