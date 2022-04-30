@@ -1,6 +1,7 @@
 # Paper-Reading
 
-Revisiting Knowledge Distillation via Label Smoothing Regularization
+## Revisiting Knowledge Distillation via Label Smoothing Regularization
+对KD来说，就是把老师的软目标和真实的的one-hot标签结合起来，我们发现KD是一个学习的LSR，其中KD的平滑分布来自于一个教师模型，而LSR的平滑分布是人工设计的。简单地说，KD是一个学习得到的LSR, 而LSR是一种特别的KD。
 
 
 
