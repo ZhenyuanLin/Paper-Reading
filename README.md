@@ -1,5 +1,22 @@
 # Paper-Reading
 
+Revisiting Knowledge Distillation via Label Smoothing Regularization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### useful url：https://github.com/thuml/Transfer-Learning-Library 【Transfer Learning】
 
 ### useful url：https://github.com/ZhenyuanLin/Awesome-datafree-KD 【Data-Free KD】
